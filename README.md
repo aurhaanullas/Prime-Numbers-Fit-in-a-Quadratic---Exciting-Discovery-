@@ -5,7 +5,7 @@ I discovered that prime numbers approximatly follow this **quadratic curve**:
 
 It fits amazingly well up to about 40 primes!
 I'm saying that this graph is accurate for ONLY prime numbers, if you input a random number, you will not get a prime, you will get an output. 
-Also, the more prime numbers you add to the graph, the 
+Also, the more prime numbers you add to the graph, the less identical it will be to the original equation.
 ---
 
 ### Proof & Links
